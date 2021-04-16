@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564263297081",
+    "project_id": "chatwhatsapp-ae83c",
+    "storage_bucket": "chatwhatsapp-ae83c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564263297081:android:0519d399a8ff52cf676de8",
+        "android_client_info": {
+          "package_name": "com.example.chatwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564263297081-4tm3dpupd707gb0f7ogq9ng90o46v1si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCARvQ0tcki-_-S8jIeD05tqVtMJgB2Jxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564263297081-4tm3dpupd707gb0f7ogq9ng90o46v1si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
